@@ -1,0 +1,7 @@
+Moonlight OS has its own list of commands that are built into the system. ##Here you can see them
+
+  1. moonutils is a command to launch a built in task manager, that displays realtime processes and errors. 
+  2. why is a command that shows you the reason why a specific task is waiting/crashed, it also mentions recent mentions of the process in the system
+  3. recent is a command that shows you the most recent error in the system, it also tells you the reason of the error
+
+The command list will be updating as the OS will update
